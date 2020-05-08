@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 String name = enterName.getText().toString();
 
 
-                showText.setText("hello" + name);
+                showText.setText("hello dear " + name);
 
             }
         });
